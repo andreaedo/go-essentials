@@ -21,6 +21,7 @@ func (t *Truck) LoadCargo() error {
 
 func (t *Truck) UnloadCargo() error {
 	return nil
+
 }
 
 func processTruck(truck Truck) error {
