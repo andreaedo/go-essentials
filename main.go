@@ -64,6 +64,7 @@ func processTruck(truck Truck) error {
 }
 
 func main() {
+	// testing git credentials
 	nt := &NormalTruck{id: "1"}
 	et := &ElectricTruck{id: "2"}
 
